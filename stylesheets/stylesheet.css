@@ -78,11 +78,11 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 21px;
+  font-size: 15px;
 }
 
 h5 {
@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: blue;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -355,7 +355,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #C2EEF6;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
@@ -393,11 +393,11 @@ Small Device Styles
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 10px;
   }
 
   h2 {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   h3 {
